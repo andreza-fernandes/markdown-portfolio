@@ -22,4 +22,4 @@ layout: default
 
 <br>
 
-{% include 06-allKnowledge.md %}
+{% include 06-knowledge.md %}
